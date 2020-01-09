@@ -14,4 +14,4 @@ In addition to the features of Remark.js, Liminal includes:
 
 See [liminal/index.html](http://www.jmlilly.net/liminal/index.html) for full details within a sample presentation.  
 
-Liminal is licensed under the MIT license. See [liminal/LICENSE.txt](http://www.jmlilly.net/liminal/LICENSE.txt) for further details.
+Liminal is licensed under the MIT license. See [liminal/LICENSE.txt](http://www.jmlilly.net/talks/liminal/LICENSE.txt) for further details.
